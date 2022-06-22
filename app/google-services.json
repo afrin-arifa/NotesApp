@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74443253634",
+    "project_id": "notes-app-5ebbe",
+    "storage_bucket": "notes-app-5ebbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74443253634:android:f9f9541960e5a618cc919b",
+        "android_client_info": {
+          "package_name": "com.afrin.notesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74443253634-o5i99bafok13uimbaf8i1p0oavtk83uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe8KgBxaqSbBa1r8OGIho4wpufbXFMsUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74443253634-o5i99bafok13uimbaf8i1p0oavtk83uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
